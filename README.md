@@ -2,8 +2,10 @@
 
 This repository is an exploration and study of the concept of Polynomial Time.
 # Sections:
-- Computational Complexity
-- Definition of Polynomial Time
-- Complexity Classes
-- Turing Machines: Deterministic and Non-Deterministic
-- P versus NP
+- Algorithmic Time Complexity
+- Big O Notation
+- Polynomial Time Complexity
+- Non-Polynomial Time Complexity
+- The P vs. NP Problem
+- Applications of Polynomial Time Algorithms
+- Conclusion and Future Directions
